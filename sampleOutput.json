@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": "Andrew McMurtry",
+        "title": "‘Don’t look down’: Test final pitch stuns",
+        "description": "<p>After two years and 69 Test matches, Australia and India will play off for the chance to be crowned Test cricket world champions in the World Test Championship Final from The Oval in London.</p>",
+        "url": "https://www.news.com.au/sport/cricket/world-test-championship-final-day-1/news-story/5efb2f50fe2588e134d7e4a9ddbafa66",
+        "urlToImage": "https://content.api.news/v3/images/bin/fce596f4fd8d7cc7654a5b24f4ba9c4d",
+        "publishedAt": "2023-06-07T09:03:00Z",
+        "content": "After two years and 69 Test matches, Australia and India will play off for the chance to be crowned Test cricket world champions in the World Test Championship Final from The Oval in London.\r\nIndia, … [+2974 chars]"
+      },
+      {
+        "source": {
+          "id": "talksport",
+          "name": "TalkSport"
+        },
+        "author": "Sean O'Brien",
+        "title": "Moeen Ali answers England’s call to end retirement for Ashes after Jack Leach injury...",
+        "description": "Moeen Ali will step out of retirement from Test cricket to play for England in this summer’s Ashes series. The 35-year-old, who retired from Test cricket in 2021, was contacted by captain Ben…",
+        "url": "https://talksport.com/sport/cricket/1447906/moeen-ali-england-retirement-ashes-jack-leach-injury/",
+        "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2018/09/GettyImages-899485052.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+        "publishedAt": "2023-06-07T07:35:35Z",
+        "content": "Moeen Ali will step out of retirement from Test cricket to play for England in this summer's Ashes series. \r\nThe 35-year-old, who retired from Test cricket in 2021, was contacted by captain Ben Stoke… [+1505 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
